@@ -1,5 +1,3 @@
-# RAG-langgraph-chatbot-proj
-
 # RAG Chatbot with LangGraph
 
 This project is a Retrieval-Augmented Generation (RAG) chatbot built using:
